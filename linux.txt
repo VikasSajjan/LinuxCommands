@@ -12,4 +12,4 @@ man command	Shows the manual for a given command.
 
 ===================================================
 Don't worry i will update so many linux commands on daily basis
-
+yes
